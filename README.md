@@ -1,9 +1,9 @@
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # rtingsExtractor
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  #rtingsExtractor
 
-&nbsp;# ratings HTML Table extractor for AutoEq.  - v gpt0.0.1#
+&nbsp;#ratings HTML Table extractor for AutoEq.  - v gpt0.0.1#
 
-&nbsp;# (Automatic or Manual)#
+&nbsp;#(Automatic or Manual)#
 
 &nbsp;  ChatGPT on rtings - Fuzzing application, written by ChatGPT
 
