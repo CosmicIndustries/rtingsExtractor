@@ -91,6 +91,6 @@ def save_graphic_eq_format(eq_data, output_file):
 
 if __name__ == "__main__":
     # Replace with actual file paths
-    input_html = "/storage/emulated/0/Download/Soundbar v1.3 - Graph Tool - RTINGS.com (2_21_2025 2：14：47 PM).html"  # Input HTML file
+    input_html = "/storage/emulated/0/Download/Soundbar.html"  # Input HTML file
     output_txt = "/storage/emulated/0/Download/graphic_eq_output.txt"   # Output file for GraphicEQ
     extract_and_clean_rtings_data(input_html, output_txt)
